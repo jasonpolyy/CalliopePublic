@@ -1,0 +1,24 @@
+# Generic ESS parameters
+station_name: 'CALBESS'
+region: 'VIC1'
+capacity: 1.0
+duration: 2.0
+charge_efficiency: 0.9
+discharge_efficiency: 1.0
+min_energy: 0.05
+max_energy: 0.95
+cycle_limit: 1.0
+max_daily_cycles: 2.0
+init_storage: 0.5
+final_storage: null
+mlf_gen: 0.99
+mlf_load: 0.99
+
+raisefast_capacity: 1.0
+raiseslow_capacity: 1.0
+raisedelay_capacity: 1.0
+raisereg_capacity: 1.0
+lowerfast_capacity: 1.0
+lowerslow_capacity: 1.0
+lowerdelay_capacity: 1.0
+lowerreg_capacity: 1.0

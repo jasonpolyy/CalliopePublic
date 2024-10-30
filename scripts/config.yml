@@ -1,0 +1,24 @@
+# Generic ESS parameters
+station_name: 'CSB'
+region: 'NSW1'
+capacity: 10.0
+duration: 2.0
+charge_efficiency: 0.9
+discharge_efficiency: 1.0
+min_energy: 0.05
+max_energy: 0.95
+cycle_limit: 1.0
+max_daily_cycles: 2.0
+init_storage: 0.5
+final_storage: null
+mlf_gen: 0.99
+mlf_load: 0.99
+
+raisefast_capacity: 5.7
+raiseslow_capacity: 5.7
+raisedelay_capacity: 5.7
+raisereg_capacity: 10.0
+lowerfast_capacity: 5.7
+lowerslow_capacity: 5.7
+lowerdelay_capacity: 5.7
+lowerreg_capacity: 10.0

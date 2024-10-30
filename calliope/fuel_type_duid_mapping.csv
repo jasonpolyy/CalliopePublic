@@ -1,0 +1,237 @@
+DUID,Power Station Name,Fuel Type,Region,Capacity (MW),CURRENT GEN (MW)
+BBTHREE1,Bell Bay Three Power Station,Natural Gas,TAS1,35,0
+BBTHREE2,Bell Bay Three Power Station,Natural Gas,TAS1,35,0
+BBTHREE3,Bell Bay Three Power Station,Natural Gas,TAS1,35,0
+BDL01,Bairnsdale Power Station,Natural Gas,VIC1,47,42.24
+BDL02,Bairnsdale Power Station,Natural Gas,VIC1,47,43.2
+TVCC201,Tamar Valley Combined Cycle Power Station,Natural Gas,TAS1,208.6,0
+TVPP104,Bell Bay Three Power Station,Natural Gas,TAS1,58,0
+AGLSOM,Somerton Power Station,Natural Gas,VIC1,170,131.2
+BROKENH1,Broken Hill Solar Plant,Solar,NSW1,53.76,0
+CLOVER,Clover Power Station,Water,VIC1,29,23.01
+DARTM1,Dartmouth Power Station,Water,VIC1,150,172.2
+EILDON1,Eildon Power Station,Water,VIC1,60,0
+EILDON2,Eildon Power Station,Water,VIC1,60,60.24
+MACARTH1,Macarthur Wind Farm,Wind,VIC1,420,7.7
+MCKAY1,Bogong / Mackay Power Station,Water,VIC1,-,217.17
+NYNGAN1,Nyngan Solar Plant,Solar,NSW1,102.141,0
+OAKLAND1,Oaklands Hill Wind Farm,Wind,VIC1,67,12.6
+WKIEWA1,West Kiewa Power Station,Water,VIC1,31,29.7
+WKIEWA2,West Kiewa Power Station,Water,VIC1,31,29.5
+YABULU,Townsville Gas Turbine,Natural Gas,QLD1,160,0
+YABULU2,Townsville Gas Turbine,Natural Gas,QLD1,82,0
+LYA1,Loy Yang A Power Station,Brown Coal,VIC1,560,552
+LYA2,Loy Yang A Power Station,Brown Coal,VIC1,530,523
+LYA3,Loy Yang A Power Station,Brown Coal,VIC1,560,554
+LYA4,Loy Yang A Power Station,Brown Coal,VIC1,560,553
+BW01,Bayswater Power Station,Black Coal,NSW1,660,613.18
+BW02,Bayswater Power Station,Black Coal,NSW1,660,595.04
+BW03,Bayswater Power Station,Black Coal,NSW1,660,607.54
+BW04,Bayswater Power Station,Black Coal,NSW1,660,679.47
+STWF1,Silverton Wind Farm,Wind,NSW1,198.94,26.31
+BLUFF1,The Bluff Wind Farm,Wind,SA1,52.5,0
+HALLWF1,Hallett 1 Wind Farm,Wind,SA1,94.5,0
+HALLWF2,Hallett 2 Wind Farm,Wind,SA1,71.4,0
+NBHWF1,North Brown Hill Wind Farm,Wind,SA1,132.3,0
+TORRB1,Torrens Island Power Station,Natural Gas / Fuel Oil,SA1,200,0
+TORRB2,Torrens Island Power Station,Natural Gas / Fuel Oil,SA1,200,0
+TORRB3,Torrens Island Power Station,Natural Gas / Fuel Oil,SA1,200,120
+TORRB4,Torrens Island Power Station,Natural Gas / Fuel Oil,SA1,200,128
+WPWF,Wattle Point Wind Farm,Wind,SA1,90.75,0
+BALDHWF1,Bald Hills Wind Farm,Wind,VIC1,106.6,91.21
+ARWF1,Ararat Wind Farm,Wind,VIC1,241.59,65.3
+BRAEMAR5,Braemar 2 Power Station,Coal Seam Methane,QLD1,173,0.13
+BRAEMAR6,Braemar 2 Power Station,Coal Seam Methane,QLD1,173,165.49
+BRAEMAR7,Braemar 2 Power Station,Coal Seam Methane,QLD1,173,0.08
+BOCORWF1,Boco Rock Wind Farm,Wind,NSW1,113.18,108.15
+BRAEMAR1,Braemar Power Station,Coal Seam Methane,QLD1,168,0
+BRAEMAR2,Braemar Power Station,Coal Seam Methane,QLD1,168,171.7
+BRAEMAR3,Braemar Power Station,Coal Seam Methane,QLD1,168,0
+CPP_3,Callide C Nett Off,Black Coal,QLD1,420,0
+CPP_4,Callide C Nett Off,Black Coal,QLD1,420,0
+CNUNDAWF,Canunda Wind Farm,Wind,SA1,46,2.6
+BWTR1,Broadwater Power Station,Bagasse,NSW1,38,4.17
+CATHROCK,Cathedral Rocks,Wind,SA1,66,0
+CLARESF1,Clare Solar Farm,Solar,QLD1,110.262,0
+CALL_B_1,Callide Power Station,Black Coal,QLD1,350,0
+CALL_B_2,Callide Power Station,Black Coal,QLD1,350,295.8
+GSTONE1,Gladstone Power Station,Black Coal,QLD1,280,250.13
+GSTONE2,Gladstone Power Station,Black Coal,QLD1,280,260.18
+GSTONE3,Gladstone Power Station,Black Coal,QLD1,280,258.98
+GSTONE4,Gladstone Power Station,Black Coal,QLD1,280,0
+GSTONE5,Gladstone Power Station,Black Coal,QLD1,280,0
+GSTONE6,Gladstone Power Station,Black Coal,QLD1,280,260.04
+KPP_1,Kogan Creek Power Station,Black Coal,QLD1,744,696.51
+W/HOE#1,Wivenhoe Power Station,Water,QLD1,250,200.95
+W/HOE#2,Wivenhoe Power Station,Water,QLD1,250,282.29
+CULLRGWF,Cullerin Range Wind Farm,Wind,NSW1,30,16.61
+VP5,"Vales Point ""B"" Power Station",Black Coal,NSW1,660,629.32
+VP6,"Vales Point ""B"" Power Station",Black Coal,NSW1,660,630.32
+BARCSF1,Barcaldine Solar Farm,Solar,QLD1,20,0.1
+LRSF1,Longreach Solar Farm,Solar,QLD1,17,0.04
+JLA01,"Jeeralang ""A"" Power Station",Natural Gas,VIC1,51,0
+JLA02,"Jeeralang ""A"" Power Station",Natural Gas,VIC1,51,0
+JLA03,"Jeeralang ""A"" Power Station",Natural Gas,VIC1,51,0
+JLA04,"Jeeralang ""A"" Power Station",Natural Gas,VIC1,51,0
+JLB01,"Jeeralang ""B"" Power Station",Natural Gas,VIC1,76,0
+JLB02,"Jeeralang ""B"" Power Station",Natural Gas,VIC1,76,0
+JLB03,"Jeeralang ""B"" Power Station",Natural Gas,VIC1,76,0
+NPS,Newport Power Station,Natural Gas,VIC1,500,505.12
+GERMCRK,German Creek Power Station,Waste Coal Mine Gas,QLD1,44.976,19.1
+MBAHNTH,Moranbah North Waste Coal Mine Gas Power Station,Waste Coal Mine Gas,QLD1,63.42,33.99
+YAMBUKWF,Yambuk Wind Farm,Wind,VIC1,30,7.1
+MP1,Mt Piper Power Station,Black Coal,NSW1,700,716.4
+MP2,Mt Piper Power Station,Black Coal,NSW1,700,652.9
+TALWA1,Tallawarra Power Station,Natural Gas,NSW1,440,398
+YWPS1,Yallourn 'W' Power Station,Brown Coal,VIC1,360,298.24
+YWPS2,Yallourn 'W' Power Station,Brown Coal,VIC1,360,298.24
+YWPS3,Yallourn 'W' Power Station,Brown Coal,VIC1,380,375.2
+YWPS4,Yallourn 'W' Power Station,Brown Coal,VIC1,380,0
+BARCALDN,Barcaldine Power Station,Natural Gas,QLD1,37,0
+OAKEY1,Oakey Power Station,Natural Gas,QLD1,141,0
+OAKEY2,Oakey Power Station,Natural Gas,QLD1,141,0
+GB01,Broken Hill Gas Turbines,Diesel,NSW1,50,0
+GANNSF1,Gannawarra Solar Farm,Solar,VIC1,55,0
+KSP1,Kidston Solar Project,Solar,QLD1,50,0
+GRIFSF1,Griffith Solar Farm,Solar,NSW1,27.2,0
+HUMENSW,Hume (NSW) Hydro Power Station,Water,NSW1,29,-0.34
+HUMEV,Hume (Vic) Hydro Power Station,Water,VIC1,29,0
+GUNNING1,Gunning Wind Farm,Wind,NSW1,46.5,31.38
+HPRG1,Hornsdale Power Reserve,Wind,SA1,102.44,38.7
+HUGSF1,Hughenden Solar Farm,Solar,QLD1,20.97,-0.06
+HDWF2,Hornsdale Wind Farm 2,Wind,SA1,102.4,1.8
+HDWF1,Hornsdale Wind Farm,Wind,SA1,102.4,3.1
+HDWF3,Hornsdale Wind Farm 3,Wind,SA1,112,3.1
+BASTYAN,Bastyan Power Station,Water,TAS1,79.9,68.57
+BUTLERSG,Butlers Gorge Power Station,Water,TAS1,14.4,0
+CETHANA,Cethana Power Station,Water,TAS1,85,77.41
+CLUNY,Cluny Power Station,Water,TAS1,19,18.21
+DEVILS_G,Devils Gate Power Station,Water,TAS1,60,22.43
+FISHER,Fisher Power Station,Water,TAS1,43.2,0
+GORDON,Gordon Power Station,Water,TAS1,432,197.43
+JBUTTERS,John Butters Power Station,Water,TAS1,144,0
+LEM_WIL,Lemonthyme / Wilmot Power Station,Water,TAS1,81.6,82.19
+LI_WY_CA,Catagunya / Liapootah / Wayatinah Power Station,Water,TAS1,170.1,179.48
+LK_ECHO,Lake Echo Power Station,Water,TAS1,32.4,24.2
+MACKNTSH,Mackintosh Power Station,Water,TAS1,79.9,23.45
+MEADOWBK,Meadowbank Power Station,Water,TAS1,40,43.36
+MUSSELR1,Musselroe Wind Farm,Wind,TAS1,168,39.3
+PALOONA,Paloona Power Station,Water,TAS1,33,30.74
+POAT110,Poatina Power Station,Water,TAS1,100,60.23
+POAT220,Poatina Power Station,Water,TAS1,200,76.79
+REECE1,Reece Power Station,Water,TAS1,115.6,43.31
+REECE2,Reece Power Station,Water,TAS1,115.6,0
+REPULSE,Repulse Power Station,Water,TAS1,28,32.76
+ROWALLAN,Rowallan Power Station,Water,TAS1,10.5,-0.01
+TARRALEA,Tarraleah Power Station,Water,TAS1,90,23
+TREVALLN,Trevallyn Power Station,Water,TAS1,93,95.8
+TRIBUTE,Tribute Power Station,Water,TAS1,82.8,69.74
+TUNGATIN,Tungatinah Power Station,Water,TAS1,125,131.84
+WOOLNTH1,Woolnorth Studland Bay / Bluff Point Wind Farm,Wind,TAS1,140,34.81
+CAPTL_WF,Capital Wind Farm,Wind,NSW1,140,128.84
+LOYYB1,Loy Yang B Power Station,Brown Coal,VIC1,500,580.88
+LOYYB2,Loy Yang B Power Station,Brown Coal,VIC1,500,579.38
+KIATAWF1,Kiata Wind Farm,Wind,VIC1,31.05,0
+LKBONNY1,Lake Bonney Wind Farm Stage 1,Wind,SA1,80.5,5.09
+LKBONNY2,Lake Bonney Stage 2 Windfarm,Wind,SA1,159,6.79
+LKBONNY3,Lake Bonney Stage 3 Wind Farm,Wind,SA1,39,1.67
+MANSLR1,Manildra solar Farm,Solar,NSW1,50,0
+MPP_1,Millmerran Power Plant,Black Coal,QLD1,426,210.01
+MPP_2,Millmerran Power Plant,Black Coal,QLD1,426,201.56
+MOREESF1,Moree Solar Farm,Solar,NSW1,57.064,0
+MLWF1,Mortons Lane Wind Farm,Wind,VIC1,19.5,2.33
+MERCER01,Mt Mercer Wind Farm,Wind,VIC1,131.2,25.3
+MTMILLAR,Mt Millar Wind Farm,Wind,SA1,70,6.2
+MLSP1,Mugga Lane Solar Park,Solar,NSW1,12,0.02
+GULLRSF1,Gullen Range Solar Farm,Solar,NSW1,10,0
+GULLRWF1,Gullen Range Wind Farm,Wind,NSW1,165.5,120.55
+DDPS1,Darling Downs Power Station,Natural Gas,QLD1,643,477.09
+ER01,Eraring Power Station,Black Coal,NSW1,720,654.1
+ER02,Eraring Power Station,Black Coal,NSW1,720,686.16
+ER03,Eraring Power Station,Black Coal,NSW1,720,685.89
+ER04,Eraring Power Station,Black Coal,NSW1,720,633.44
+ERGT01,Eraring Power Station,Diesel,NSW1,41.5,0
+LADBROK1,Ladbroke Grove Power Station,Natural Gas,SA1,40,41.45
+LADBROK2,Ladbroke Grove Power Station,Natural Gas,SA1,40,0.02
+MORTLK11,Mortlake Power Station,Natural Gas,VIC1,283,275
+MORTLK12,Mortlake Power Station,Natural Gas,VIC1,283,273
+MSTUART1,Mt Stuart Power Station,Kerosene,QLD1,144,0
+MSTUART2,Mt Stuart Power Station,Kerosene,QLD1,144,0
+MSTUART3,Mt Stuart Power Station,Kerosene,QLD1,131,0
+OSB-AG,Osborne Power Station,Natural Gas,SA1,180,193.47
+QPS1,Quarantine Power Station,Natural Gas,SA1,24,28.7
+QPS2,Quarantine Power Station,Natural Gas,SA1,24,0
+QPS3,Quarantine Power Station,Natural Gas,SA1,24,28.7
+QPS4,Quarantine Power Station,Natural Gas,SA1,24,0
+QPS5,Quarantine Power Station,Natural Gas,SA1,128,123.26
+ROMA_7,Roma Gas Turbine Station,Natural Gas,QLD1,40,0
+ROMA_8,Roma Gas Turbine Station,Natural Gas,QLD1,40,0
+SHGEN,Shoalhaven Power Station (Bendeela / Kangaroo Valley),Water,NSW1,240,238.8
+URANQ11,Uranquinty Power Station,Natural Gas,NSW1,166,0
+URANQ12,Uranquinty Power Station,Natural Gas,NSW1,166,0
+URANQ13,Uranquinty Power Station,Natural Gas,NSW1,166,169.93
+URANQ14,Uranquinty Power Station,Natural Gas,NSW1,166,170.43
+BNGSF1,Bungala One Solar Farm,Solar,SA1,135,0
+CLEMGPWF,Clements Gap Wind Farm,Wind,SA1,57,0
+YSWF1,Yaloak South Wind Farm,Wind,VIC1,28.7,8.1
+PARSF1,Parkes Solar Farm,Solar,NSW1,50.49,0
+PPCCGT,Pelican Point Power Station,Natural Gas,SA1,478,355.42
+WAUBRAWF,Waubra Wind Farm,Wind,VIC1,192,79.4
+CPSA,Condamine Power Station A,Natural Gas,QLD1,143,88.65
+RPCG,Rocky Point Cogeneration Plant,Bagasse,QLD1,30,-0.7
+ROYALLA1,Royalla Solar Farm,Solar,NSW1,20,0
+YARWUN_1,Yarwun Power Station,Natural Gas,QLD1,154,124.91
+SNOWTWN1,Snowtown Wind Farm Units 1 And 47,Wind,SA1,99,0
+SNOWNTH1,Snowtown Wind Farm Stage 2 North,Wind,SA1,144,0.9
+SNOWSTH1,Snowtown South Wind Farm,Wind,SA1,126,0.9
+ANGAST1,Angaston Power Station,Diesel,SA1,50,34.2
+BLOWERNG,Blowering Power Station,Water,NSW1,70,0
+CG1,Colongra Power Station,Natural Gas,NSW1,181,0
+CG2,Colongra Power Station,Natural Gas,NSW1,181,0
+CG3,Colongra Power Station,Natural Gas,NSW1,181,0
+CG4,Colongra Power Station,Natural Gas,NSW1,181,0
+GUTHEGA,Guthega Power Station,Water,NSW1,60,30.6
+LNGS1,Laverton North Power Station,Natural Gas,VIC1,156,0
+LNGS2,Laverton North Power Station,Natural Gas,VIC1,156,0
+LONSDALE,Lonsdale Power Station,Diesel,SA1,20,14.71
+MURRAY,Murray Power Station,Water,VIC1,1502,996.1
+PTSTAN1,Pt Stanvac Power Station,Diesel,SA1,57.6,32.7
+TUMUT3,Tumut 3 Power Station,Water,NSW1,1500,128.26
+UPPTUMUT,Tumut Power Station,Water,NSW1,616,627.58
+VPGS1,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+VPGS2,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+VPGS3,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+VPGS4,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+VPGS5,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+VPGS6,Valley Power Peaking Facility,Natural Gas,VIC1,50,0
+BARRON-1,Barron Gorge Power Station,Water,QLD1,30,33.24
+BARRON-2,Barron Gorge Power Station,Water,QLD1,30,33.16
+KAREEYA1,Kareeya Power Station,Water,QLD1,21,21.51
+KAREEYA2,Kareeya Power Station,Water,QLD1,21,21.44
+KAREEYA3,Kareeya Power Station,Water,QLD1,21,0
+KAREEYA4,Kareeya Power Station,Water,QLD1,21,21.28
+STAN-1,Stanwell Power Station,Black Coal,QLD1,365,322.89
+STAN-2,Stanwell Power Station,Black Coal,QLD1,365,0
+STAN-3,Stanwell Power Station,Black Coal,QLD1,365,266.1
+STAN-4,Stanwell Power Station,Black Coal,QLD1,365,322.51
+SWAN_E,Swanbank B Power Station & Swanbank E Gas Turbine,Natural Gas,QLD1,385,-0.58
+TARONG#1,Tarong Power Station,Black Coal,QLD1,350,328
+TARONG#2,Tarong Power Station,Black Coal,QLD1,350,327.6
+TARONG#3,Tarong Power Station,Black Coal,QLD1,350,327.7
+TARONG#4,Tarong Power Station,Black Coal,QLD1,350,328.2
+TNPS1,Tarong North Power Station,Black Coal,QLD1,443,436
+STARHLWF,Starfish Hill Wind Farm,Wind,SA1,34.5,0.01
+SMCSF1,Sun Metals Solar Farm,Solar,QLD1,118,0
+DRYCGT1,Dry Creek Gas Turbine Station,Natural Gas,SA1,52,0
+DRYCGT2,Dry Creek Gas Turbine Station,Natural Gas,SA1,52,0
+DRYCGT3,Dry Creek Gas Turbine Station,Natural Gas,SA1,52,0
+MINTARO,Mintaro Gas Turbine Station,Natural Gas,SA1,90,0.09
+POR01,Port Lincoln Gas Turbine,Diesel,SA1,50,0
+POR03,Port Lincoln Gas Turbine,Diesel,SA1,23.5,0
+SNUG1,Snuggery Power Station,Diesel,SA1,63,0
+TARALGA1,Taralga Wind Farm,Wind,NSW1,106.8,98.99
+SAPHWF1,Sapphire Wind Farm,Wind,NSW1,270,216.56
+SITHE01,Smithfield Energy Facility,Natural Gas,NSW1,170.9,0.14
+WATERLWF,Waterloo Wind Farm,Wind,SA1,130.8,0
+WRWF1,White Rock Wind Farm,Wind,NSW1,175,149.41
+WOODLWN1,Woodlawn Wind Farm,Wind,NSW1,48.3,44.52
